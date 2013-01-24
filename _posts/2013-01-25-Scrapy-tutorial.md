@@ -1,7 +1,7 @@
 ﻿---
 layout: page
-title: "Scrapy中文"
-description: "Scrapy中文教程"
+title: Scrapy中文
+description: Scrapy中文教程
 category: 翻译
 tags: [Scrapy]
 ---
