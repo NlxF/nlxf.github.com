@@ -1,10 +1,10 @@
----
+ï»¿---
 layout: page
-title: "ScrapyÖĞÎÄ"
-description: "ScrapyÖĞÎÄ½Ì³Ì"
-category: ·­Òë
+title: "Scrapyä¸­æ–‡"
+description: "Scrapyä¸­æ–‡æ•™ç¨‹"
+category: ç¿»è¯‘
 tags: [Scrapy]
 ---
 {% include JB/setup %}
-##Scrapy ½Ì³Ì
-ÔÚ±¾½Ì³ÌÖĞ£¬¼ÙÉèÄãÒÑ¾­°²×°ÁËScrapy¡£Èç¹û»¹Ã»ÓĞ£¬Çë²Î¿¼°²×°Ö¸ÄÏ"2013/01/25/installation/guide"
+##Scrapy æ•™ç¨‹
+åœ¨æœ¬æ•™ç¨‹ä¸­ï¼Œå‡è®¾ä½ å·²ç»å®‰è£…äº†Scrapyã€‚å¦‚æœè¿˜æ²¡æœ‰ï¼Œè¯·å‚è€ƒå®‰è£…æŒ‡å—"2013/01/25/installation/guide"
