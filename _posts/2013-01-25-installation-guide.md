@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Scrapy安装指南
 description: Scrapy安装指南
 category: 翻译
